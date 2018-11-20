@@ -17,3 +17,4 @@ footer("Some Name");
 ```
 # devcamp-js-footer
 # devcamp-js-footer
+# dev-js-footer
