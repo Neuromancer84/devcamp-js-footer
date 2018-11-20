@@ -16,3 +16,4 @@ import { footer } from "devcamp-js-footer";
 footer("Some Name");
 ```
 # devcamp-js-footer
+# devcamp-js-footer
